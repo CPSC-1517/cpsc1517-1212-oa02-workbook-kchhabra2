@@ -1,5 +1,5 @@
-# Basic Starter Kit
+# CPSC1517 Workbook
 
-## Owner your name
+## Kashish Chhabra
 
 alter this statement to indicate the usage of this repository
